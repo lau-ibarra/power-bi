@@ -1,2 +1,2 @@
-# power-bi
+# Power BI
 Dashboards developed using PowerBI
